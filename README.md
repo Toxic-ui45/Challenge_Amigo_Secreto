@@ -5,4 +5,4 @@ This project is a simple web application that allows users to play "Secret Santa
 Users can:
 - Add friends´names to a list.
 - Display the names entered in a dynamic list.
-- Randomly drzaw a name from the list and display the result on the screen.
+- Randomly draw a name from the list and display the result on the screen.
